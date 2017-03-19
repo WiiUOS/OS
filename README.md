@@ -1,1 +1,1 @@
-This repository is private.
+This repository is for the MoOS operating system.
